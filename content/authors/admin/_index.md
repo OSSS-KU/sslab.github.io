@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: System Software Lab
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: SS
+last_name: Lab
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of computer science
 
 # Organizations/Affiliations
 organizations:

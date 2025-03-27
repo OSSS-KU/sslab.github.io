@@ -16,10 +16,10 @@ sections:
         </span>
       image:
         filename: sslab_logo.png
-        width: 100
+        width: 20
       text: |
         <br>
-        <span style="font-size: 0.3em;">
+        <span style="font-size: 0.6em;">
         We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
         </span>
   

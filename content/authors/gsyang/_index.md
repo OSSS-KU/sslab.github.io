@@ -1,6 +1,6 @@
 ---
 # Display name
-title: System Software Lab
+title: Gyeongsik Yang
 
 # Full Name (for SEO)
 first_name: Gyeongsik

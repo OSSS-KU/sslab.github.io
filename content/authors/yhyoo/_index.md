@@ -1,6 +1,6 @@
 ---
 # Display name
-title: System Software Lab
+title: Yeonho Yoo
 
 # Full Name (for SEO)
 first_name: Yeonho

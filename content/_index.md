@@ -1,26 +1,28 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-27
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        <span style="font-size: 0.7em; color:#9D2235;">
+        <span style="font-size: 0.8em; color:#9D2235;">
           <strong>System Software Lab.</strong>
         </span><br>
-        <span style="font-size: 0.7em;">
-          KOREA UNIVERSITY
+        <span style="font-size: 0.8em;">
+          <strong>KOREA UNIVERSITY</strong>
         </span>
       image:
         filename: sslab_logo.png
         width: 20
       text: |
         <br>
-        <span style="font-size: 0.6em;">
-        We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
+        <span style="font-size: 0.7em;">
+        We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. 
+        <br>
+        Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
         </span>
   
   - block: collection

@@ -8,13 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        System Software Lab.
+        ##System Software Lab.
+        ##<span style="color:#9D2235">KOREA UNIVERSITY</span>
       image:
         filename: sslab_logo.png
       text: |
         <br>
         
-        We investigate the challenges of system software technologies with the goal of better performance and efficiency of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
+        ###We investigate the **challenges of system software technologies** with the goal of **better performance and efficiency** of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
   
   - block: collection
     content:

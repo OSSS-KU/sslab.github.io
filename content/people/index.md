@@ -16,10 +16,11 @@ sections:
           - Graduate students
           - Undergraduate interns
           - Alumni
-      sort_by: Params.last_name
+      # sort_by: Params.last_name
+      sort_by: Params.priority
       sort_ascending: true
     design:
       show_interests: false
-      show_role: true
+      show_role: false
       show_social: true
 ---

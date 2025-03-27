@@ -12,6 +12,8 @@ superuser: false
 # # Role/position
 role: Ph.D course
 
+priority: 1
+
 # # Organizations/Affiliations
 # organizations:
 #   - name: Korea University

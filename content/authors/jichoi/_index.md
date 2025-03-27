@@ -12,6 +12,8 @@ superuser: false
 # # Role/position
 role: Integrated MS-Ph.D. course
 
+priority: 3
+
 # # Organizations/Affiliations
 # organizations:
 #   - name: Korea University

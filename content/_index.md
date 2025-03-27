@@ -9,9 +9,9 @@ sections:
     content:
       title: |
         <span style="font-size: 0.8em; color:#9D2235;">
-          <strong>System Software Lab.</strong>
-        </span><br>
-        <span style="font-size: 0.8em;">
+          <strong>System Software</strong>
+        </span>  Lab.<br>
+        <span style="font-size: 0.7em;">
           <strong>KOREA UNIVERSITY</strong>
         </span><br>
         <span style="font-size: 0.6em;">
@@ -19,13 +19,11 @@ sections:
         <strong>시스템 소프트웨어 연구실</strong>
         </span>
       image:
-        filename: sslab_logo_half.png
+        filename: sslab_logo.png
       text: |
         <br>
         <span style="font-size: 0.75em;">
-        We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. 
-        <br><br>
-        Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
+        We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
         </span>
   
   - block: collection

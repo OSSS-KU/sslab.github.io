@@ -10,7 +10,7 @@ last_name: Yoo
 superuser: false
 
 # # Role/position
-# role: Postdoc
+role: Postdoctoral associate
 
 # # Organizations/Affiliations
 # organizations:

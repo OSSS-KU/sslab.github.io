@@ -10,7 +10,7 @@ last_name: Go
 superuser: false
 
 # # Role/position
-# role: Graduate students
+role: Ph.D course
 
 # # Organizations/Affiliations
 # organizations:

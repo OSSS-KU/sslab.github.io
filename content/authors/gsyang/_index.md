@@ -10,7 +10,7 @@ last_name: Yang
 superuser: true
 
 # Role/position
-# role: Faculty
+role: Assistant professor
 
 # # Organizations/Affiliations
 # organizations:

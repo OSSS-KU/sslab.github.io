@@ -13,6 +13,10 @@ sections:
         </span><br>
         <span style="font-size: 0.8em;">
           <strong>KOREA UNIVERSITY</strong>
+        </span><br>
+        <span style="font-size: 0.8em;">
+        고려대학교 컴퓨터학과
+        <strong>시스템 소프트웨어 연구실</strong>
         </span>
       image:
         filename: sslab_logo.png

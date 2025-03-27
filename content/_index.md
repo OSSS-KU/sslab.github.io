@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <span style="font-size: 0.7em; color:#9D2235;">
-          **System Software Lab.**
+          <strong>System Software Lab.</strong>
         </span><br>
         <span style="font-size: 0.7em;">
           KOREA UNIVERSITY
@@ -20,7 +20,7 @@ sections:
       text: |
         <br>
         <span style="font-size: 0.3em;">
-        We investigate the **challenges of system software technologies** with the goal of **better performance and efficiency** of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
+        We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
         </span>
   
   - block: collection

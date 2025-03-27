@@ -14,18 +14,21 @@ sections:
         <span style="font-size: 0.8em;">
           <strong>KOREA UNIVERSITY</strong>
         </span><br>
-        <span style="font-size: 0.8em;">
-        고려대학교 컴퓨터학과
+        <span style="font-size: 0.7em;">
+        고려대학교 컴퓨터학과<br>
         <strong>시스템 소프트웨어 연구실</strong>
         </span>
-      image:
-        filename: sslab_logo.png
-        width: 20
+        <img src="sslab_logo.png"
+             alt="System Software Lab Logo"
+             style="width:100px; height:auto; margin-top:10px;" />
+      # image:
+      #   filename: sslab_logo.png
+      #   width: 20
       text: |
         <br>
         <span style="font-size: 0.7em;">
         We investigate the <strong>challenges of system software technologies</strong> with the goal of <strong>better performance and efficiency</strong> of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. 
-        <br>
+        <br><br>
         Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
         </span>
   

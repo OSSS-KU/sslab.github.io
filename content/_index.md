@@ -10,7 +10,9 @@ sections:
       title: |
         <span style="font-size: 0.8em; color:#9D2235;">
           <strong>System Software</strong>
-        </span> <span style="font-size: 0.8em;> Lab.</span><br>
+        </span> 
+        <span style="font-size: 0.8em;"> Lab.
+        </span><br>
         <span style="font-size: 0.7em;">
           <strong>KOREA UNIVERSITY</strong>
         </span><br>

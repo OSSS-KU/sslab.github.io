@@ -18,7 +18,7 @@ authors:
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Sigmetrics 2025 (Accepted with shepherding) New York, USA, 2025."
+publication: "ACM Sigmetrics 2025 (Accepted with shepherding) New York, USA, 2025"
 publication_short: ""
 
 tags:

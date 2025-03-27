@@ -10,11 +10,11 @@ sections:
       title: |
         <span style="font-size: 0.8em; color:#9D2235;">
           <strong>System Software</strong>
-        </span>  Lab.<br>
+        </span> <span style="font-size: 0.8em;> Lab.</span><br>
         <span style="font-size: 0.7em;">
           <strong>KOREA UNIVERSITY</strong>
         </span><br>
-        <span style="font-size: 0.6em;">
+        <span style="font-size: 0.5em;">
         고려대학교 컴퓨터학과<br>
         <strong>시스템 소프트웨어 연구실</strong>
         </span>

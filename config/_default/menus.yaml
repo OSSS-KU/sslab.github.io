@@ -14,15 +14,15 @@ main:
   - name: Publication
     url: publication
     weight: 50
-  - name: News
-    url: publication
-    weight: 50
-  - name: Course/talk
-    url: publication
-    weight: 50
   - name: Join us
     url: contact
     weight: 60
+  # - name: News
+  #   url: publication
+  #   weight: 50
+  # - name: Course/talk
+  #   url: publication
+  #   weight: 50
 
 # origins
 # main:

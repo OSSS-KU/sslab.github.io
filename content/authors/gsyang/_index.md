@@ -10,12 +10,12 @@ last_name: Yang
 superuser: true
 
 # Role/position
-role: Faculty
+# role: Faculty
 
-# Organizations/Affiliations
-organizations:
-  - name: Korea University
-    url: ''
+# # Organizations/Affiliations
+# organizations:
+#   - name: Korea University
+#     url: ''
 
 # 아래부터 https://gsyang33.github.io/ 적용하면 좋을듯
 

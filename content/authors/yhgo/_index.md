@@ -7,15 +7,15 @@ first_name: Younghun
 last_name: Go
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position
-role: Graduate students
+# # Role/position
+# role: Graduate students
 
-# Organizations/Affiliations
-organizations:
-  - name: Korea University
-    url: ''
+# # Organizations/Affiliations
+# organizations:
+#   - name: Korea University
+#     url: ''
 
 # 아래부터 https://gsyang33.github.io/ 적용하면 좋을듯
 

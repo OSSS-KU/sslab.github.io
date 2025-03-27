@@ -3,14 +3,14 @@
 title: System Software Lab
 
 # Full Name (for SEO)
-first_name: Younghun
-last_name: Go
+first_name: Yeonho
+last_name: Yoo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate students
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -71,5 +71,5 @@ organizations:
 # # Organizational groups that you belong to (for People widget)
 # #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate students
+  - Postdoc
 ---

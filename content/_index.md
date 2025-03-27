@@ -16,7 +16,7 @@ sections:
         </span>
       image:
         filename: sslab_logo.png
-        width: 300
+        width: 100
       text: |
         <br>
         <span style="font-size: 0.3em;">

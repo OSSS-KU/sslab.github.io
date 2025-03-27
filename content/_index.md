@@ -19,8 +19,9 @@ sections:
         width: 300
       text: |
         <br>
-        
+        <span style="font-size: 1em;">
         We investigate the **challenges of system software technologies** with the goal of **better performance and efficiency** of computing infrastructures on all scales, from individual computers to massive cloud to planetary scale clusters. Our research efforts cover exciting topics like system optimization techniques, resource efficiency, high-performance computing, and virtualization.
+        </span>
   
   - block: collection
     content:

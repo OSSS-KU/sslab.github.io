@@ -2,7 +2,7 @@
 title: Tour
 type: landing
 sections:
-  - block: blank
+  - block: markdown
     design:
       container: false  
     content: |
@@ -23,7 +23,7 @@ sections:
       Cloud computing is primarily realized through “networking,” which is utilized for either 1) device-to-device communication within a node or 2) node-to-node communication. In this context, the network infrastructure of datacenters must be virtualized to isolate performance and resource usage between tenants. However, current datacenters do not allow tenants to create or control their virtual network infrastructure, such as virtual switches, virtual links, and virtual topologies. Instead, the virtual network infrastructure is configured and managed solely by the datacenter administrators, which is in stark contrast to server virtualization. In particular, considering that customized operations of network resources (e.g., in-network computing) are one of the major building blocks of upcoming networking systems such as those beyond 5G, this issue is critical. As a result, system researchers have sought to make the network infrastructure controllable by "software" (known as software-defined networking, or SDN) to enable users of the network infrastructure to freely access, virtualize, and customize it (programmability).
 
       We are investigating network systems that are more 1) programmable, 2) high-performance, and 3) reliable for connecting heterogeneous devices and enabling services in this context. The following are examples of our technologies.
-      
+
       </div>
 ---
 

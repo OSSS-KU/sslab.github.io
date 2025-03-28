@@ -1,35 +1,16 @@
-<!-- <div style="max-width: 100%; width: 100%;">
-
-<strong>AI system software 🤹🏻</strong>
-
-In recent years, datacenters have evolved to accommodate a variety of heterogeneous workloads and devices. A prominent example is distributed deep learning training, which enables the development of large-scale AI models like GPT, DALL-E or LLaMA, demanding over 530 billion hyperparameters and utilizing hundreds of GPU nodes. As a result, optimizing infrastructure utilization and efficiency has become crucial. However, recent data from major cloud providers such as Microsoft and Alibaba reveal average GPU utilization rates of only 52.4% and 25.4%, respectively. This underutilization signifies a considerable waste of datacenter infrastructure resources, highlighting the need for more effective strategies to improve efficiency and utilization.
-
-One of the primary challenges in optimizing system infrastructure is that deep learning workloads have not yet been characterized by system software. Despite significant advancements in the field, determining the optimal training configuration, such as the GPU type and number of GPUs, remains unknown, resulting in unpredictable training times. This issue makes it impossible to optimize scheduling or system techniques on AI tasks. Also, severe overallocation of GPUs exist in datacenters. These resource inefficiency problems necessitate more efficient system management strategies.
-
-The following are representative technologies from our research.
-<div style="display: flex; gap: 10px; justify-content: center;">
-
-  <img src="static/workload.jpg" alt="Image 1" style="width: 30%;"/>
-  <img src="static/scheduling.jpg" alt="Image 2" style="width: 30%;"/>
-  <img src="static/placement.jpg" alt="Image 3" style="width: 30%;"/>
-
-</div>
-
-</div> -->
-
 ---
 title: Tour
 type: landing
 sections:
   - block: blank
     design:
-      container: false  # ✅ full-width로 퍼지게 하는 핵심 설정
+      container: false  
     content: |
       <div style="padding: 40px;">
 
       <h1><strong>AI system software 🤹🏻</strong></h1>
 
-      <p style="max-width: 900px; margin: -30px;">
+      <p style="max-width: 1800px;">
       In recent years, datacenters have evolved to accommodate a variety of heterogeneous workloads and devices. A prominent example is distributed deep learning training, which enables the development of large-scale AI models like GPT, DALL-E or LLaMA, demanding over 530 billion hyperparameters and utilizing hundreds of GPU nodes. As a result, optimizing infrastructure utilization and efficiency has become crucial. However, recent data from major cloud providers such as Microsoft and Alibaba reveal average GPU utilization rates of only 52.4% and 25.4%, respectively. This underutilization signifies a considerable waste of datacenter infrastructure resources, highlighting the need for more effective strategies to improve efficiency and utilization.
 
       One of the primary challenges in optimizing system infrastructure is that deep learning workloads have not yet been characterized by system software. Despite significant advancements in the field, determining the optimal training configuration, such as the GPU type and number of GPUs, remains unknown, resulting in unpredictable training times. This issue makes it impossible to optimize scheduling or system techniques on AI tasks. Also, severe overallocation of GPUs exist in datacenters. These resource inefficiency problems necessitate more efficient system management strategies.
@@ -37,14 +18,17 @@ sections:
       The following are representative technologies from our research.
       </p>
 
-      <div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-        <img src="/uploads/workload.png/workload.jpg" style="width: 30%;" />
-        <img src="/uploads/scheduling.jpg" style="width: 30%;" />
-        <img src="/uploads/placement.jpg" style="width: 30%;" />
       </div>
 
-      </div>
+      <h1><strong>Network system software  🖥️</strong></h1>
+
+      Cloud computing is primarily realized through “networking,” which is utilized for either 1) device-to-device communication within a node or 2) node-to-node communication. In this context, the network infrastructure of datacenters must be virtualized to isolate performance and resource usage between tenants. However, current datacenters do not allow tenants to create or control their virtual network infrastructure, such as virtual switches, virtual links, and virtual topologies. Instead, the virtual network infrastructure is configured and managed solely by the datacenter administrators, which is in stark contrast to server virtualization. In particular, considering that customized operations of network resources (e.g., in-network computing) are one of the major building blocks of upcoming networking systems such as those beyond 5G, this issue is critical. As a result, system researchers have sought to make the network infrastructure controllable by "software" (known as software-defined networking, or SDN) to enable users of the network infrastructure to freely access, virtualize, and customize it (programmability).
+
+      We are investigating network systems that are more 1) programmable, 2) high-performance, and 3) reliable for connecting heterogeneous devices and enabling services in this context. The following are examples of our technologies.
 ---
+
+
+
 <!-- ---
 title: Tour
 date: 2022-10-24

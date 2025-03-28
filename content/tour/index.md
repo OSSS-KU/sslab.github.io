@@ -12,9 +12,9 @@ The following are representative technologies from our research.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
 
-  <img src="workload.jpg" alt="Image 1" style="width: 30%;"/>
-  <img src="scheduling.jpg" alt="Image 2" style="width: 30%;"/>
-  <img src="placement.jpg" alt="Image 3" style="width: 30%;"/>
+  <img src="content/tour/workload.jpg" alt="Image 1" style="width: 30%;"/>
+  <img src="content/tour/scheduling.jpg" alt="Image 2" style="width: 30%;"/>
+  <img src="content/tour/placement.jpg" alt="Image 3" style="width: 30%;"/>
 
 </div>
 

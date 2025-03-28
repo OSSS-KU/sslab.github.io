@@ -25,11 +25,11 @@ sections:
     design:
       container: false  # ✅ full-width로 퍼지게 하는 핵심 설정
     content: |
-      <div style="padding: 40px; text-align: center;">
+      <div style="padding: 40px;">
 
       <h1><strong>AI system software 🤹🏻</strong></h1>
 
-      <p style="max-width: 900px; margin: auto;">
+      <p style="max-width: 900px; margin: -30px;">
       In recent years, datacenters have evolved to accommodate a variety of heterogeneous workloads and devices. A prominent example is distributed deep learning training, which enables the development of large-scale AI models like GPT, DALL-E or LLaMA, demanding over 530 billion hyperparameters and utilizing hundreds of GPU nodes. As a result, optimizing infrastructure utilization and efficiency has become crucial. However, recent data from major cloud providers such as Microsoft and Alibaba reveal average GPU utilization rates of only 52.4% and 25.4%, respectively. This underutilization signifies a considerable waste of datacenter infrastructure resources, highlighting the need for more effective strategies to improve efficiency and utilization.
 
       One of the primary challenges in optimizing system infrastructure is that deep learning workloads have not yet been characterized by system software. Despite significant advancements in the field, determining the optimal training configuration, such as the GPU type and number of GPUs, remains unknown, resulting in unpredictable training times. This issue makes it impossible to optimize scheduling or system techniques on AI tasks. Also, severe overallocation of GPUs exist in datacenters. These resource inefficiency problems necessitate more efficient system management strategies.

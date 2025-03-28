@@ -7,14 +7,13 @@ In recent years, datacenters have evolved to accommodate a variety of heterogene
 One of the primary challenges in optimizing system infrastructure is that deep learning workloads have not yet been characterized by system software. Despite significant advancements in the field, determining the optimal training configuration, such as the GPU type and number of GPUs, remains unknown, resulting in unpredictable training times. This issue makes it impossible to optimize scheduling or system techniques on AI tasks. Also, severe overallocation of GPUs exist in datacenters. These resource inefficiency problems necessitate more efficient system management strategies.
 
 The following are representative technologies from our research.
-
-</div>
-
 <div style="display: flex; gap: 10px; justify-content: center;">
 
-  <img src="content/tour/workload.jpg" alt="Image 1" style="width: 30%;"/>
-  <img src="content/tour/scheduling.jpg" alt="Image 2" style="width: 30%;"/>
-  <img src="content/tour/placement.jpg" alt="Image 3" style="width: 30%;"/>
+  <img src="static/workload.jpg" alt="Image 1" style="width: 30%;"/>
+  <img src="static/scheduling.jpg" alt="Image 2" style="width: 30%;"/>
+  <img src="static/placement.jpg" alt="Image 3" style="width: 30%;"/>
+
+</div>
 
 </div>
 
